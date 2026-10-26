@@ -240,4 +240,4 @@ Os 15 testes usam um banco temporário e cobrem: login e hash de senha, `401` se
 
 ## 🎥 Vídeo
 
-_Link do vídeo de demonstração:_ **(adicionar aqui)**
+_Link do vídeo de demonstração:_ **https://youtu.be/vG27E2VB_pk**

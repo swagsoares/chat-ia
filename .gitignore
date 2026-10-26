@@ -1,0 +1,23 @@
+# Segredos e configurações locais — NUNCA versionar
+.env
+*.env
+!.env.example
+
+# Banco de dados local (gerado ao rodar a API)
+backend/data/
+*.db
+*.sqlite3
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+env/
+
+# Editores / SO
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
